@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - Também tenho grande interesse em Cloud, e tenho certificado na Cloud Practitioner pela AWS (Amazon). 
 - Também costumo organizar meus estudos em projetos e escrevendo artigos. Dê uma olhada nos meus repositórios!
 
-- <p align="center">
+
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,javascript,aws,react,angular,css,html" />
   </a>
