@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Meu nome é Pedro Paulo, atualmente moro no Rio de Janeiro / Brasil! 
+Atualmente tenho foco em desenvolvimento front-end. Minhas stacks são JS, Node.JS, e estou aprendendo React e Angular!
+Também tenho grande interesse em Cloud, e tenho certificado na Cloud Practitioner pela AWS (Amazon). 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-PAM)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-PAM&show_icons=true)
