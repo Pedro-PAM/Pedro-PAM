@@ -22,4 +22,5 @@ Alguns artigos que já escrevi:
 
 
 [![Funções Recursivas em Python, publicado no site da DIO:](https://web.dio.me/articles/funcoes-recursivas-em-python-o-que-sao-e-como-funcionam?back=%2Fhome&page=1&order=oldest)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-PAM)](https://github.com/anuraghazra/github-readme-stats)
