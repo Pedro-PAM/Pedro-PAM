@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-PAM&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
-Alguns artigos que já escrevi:
 
 
-[Funções Recursivas em Python, publicado no site da DIO:](https://web.dio.me/articles/funcoes-recursivas-em-python-o-que-sao-e-como-funcionam?back=%2Fhome&page=1&order=oldest)
++ Alguns artigos que já escrevi:
+
+
+- [Funções Recursivas em Python, publicado no site da DIO:](https://web.dio.me/articles/funcoes-recursivas-em-python-o-que-sao-e-como-funcionam?back=%2Fhome&page=1&order=oldest)
 
 
