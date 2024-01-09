@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 Meu nome é Pedro Paulo, atualmente moro no Rio de Janeiro / Brasil! 
 Atualmente tenho foco em desenvolvimento front-end. Minhas stacks são JS, Node.JS, e estou aprendendo React e Angular!
 Também tenho grande interesse em Cloud, e tenho certificado na Cloud Practitioner pela AWS (Amazon). 
+Também costumo organizar meus estudos em projetos e escrevendo artigos. Dê uma olhada nos meus repositórios!
+Alguns artigos que já escrevi:
 
+
+[![Funções Recursivas em Python, publicado no site da DIO:](https://web.dio.me/articles/funcoes-recursivas-em-python-o-que-sao-e-como-funcionam?back=%2Fhome&page=1&order=oldest)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-PAM)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-PAM&show_icons=true)
