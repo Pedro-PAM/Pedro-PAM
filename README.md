@@ -15,10 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ Meu nome é Pedro Paulo, atualmente moro no Rio de Janeiro / Brasil! 
++ Meu nome é Pedro Paulo, atualmente moro no Rio de Janeiro / Brasil!
+  ```json
+  My name is Pedro Paulo, currently living in Rio de Janeiro - Brazil!
+  ```  
+  
 + Atualmente tenho foco em desenvolvimento front-end. Minhas stacks são JS, Node.JS, e estou aprendendo React e Angular!
-- Também tenho grande interesse em Cloud, e tenho certificado na Cloud Practitioner pela AWS (Amazon). 
-- Também costumo organizar meus estudos em projetos e escrevendo artigos. Dê uma olhada nos meus repositórios!
+  
+  ```json
+  Currenly I'm focused on front-end develop. My stacks are JS, Node, and I'm also learning React and Angular!
+  ```
++ Também tenho grande interesse em Cloud, e tenho certificado na Cloud Practitioner pela AWS (Amazon).
+  
+  ```json
+  I also have great interest in Cloud, with a certificate on the AWS Cloud Practitioner.
+  ```
+  
++ Também costumo organizar meus estudos em projetos e escrevendo artigos. Dê uma olhada nos meus repositórios!
 
 
  <p align="center">
@@ -35,7 +48,7 @@ Here are some ideas to get you started:
 </a>
 
 
-+ Alguns artigos que já escrevi:
+ Alguns artigos que já escrevi:
 
 
 - [Funções Recursivas em Python, publicado no site da DIO:](https://web.dio.me/articles/funcoes-recursivas-em-python-o-que-sao-e-como-funcionam?back=%2Fhome&page=1&order=oldest)
