@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 + Atualmente tenho foco em desenvolvimento front-end. Minhas stacks são JS, Node.JS, e estou aprendendo React e Angular!
 - Também tenho grande interesse em Cloud, e tenho certificado na Cloud Practitioner pela AWS (Amazon). 
 - Também costumo organizar meus estudos em projetos e escrevendo artigos. Dê uma olhada nos meus repositórios!
+<span style="color: green"> Some green text </span>
 
 
  <p align="center">
