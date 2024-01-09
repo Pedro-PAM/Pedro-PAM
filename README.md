@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-PAM&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
-<img src="[Pedro-PAM]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
 Alguns artigos que já escrevi:
 
 
