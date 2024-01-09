@@ -20,13 +20,19 @@ Here are some ideas to get you started:
 - Também tenho grande interesse em Cloud, e tenho certificado na Cloud Practitioner pela AWS (Amazon). 
 - Também costumo organizar meus estudos em projetos e escrevendo artigos. Dê uma olhada nos meus repositórios!
 
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,javascript,aws,react,angular,css,html" />
+  </a>
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-PAM" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-PAM&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
-
+<img src="[Pedro-PAM]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
 Alguns artigos que já escrevi:
 
 
