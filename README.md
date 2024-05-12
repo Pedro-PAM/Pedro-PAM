@@ -18,12 +18,19 @@ Here are some ideas to get you started:
 + Meu nome é Pedro Paulo, atualmente moro no Rio de Janeiro / Brasil!
   ```json
   My name is Pedro Paulo, currently living in Rio de Janeiro - Brazil!
-  ```  
-  
-+ Atualmente tenho foco em desenvolvimento front-end. Minhas stacks são JS, Node.JS, e estou aprendendo React e Angular!
+  ```
+
++ Estudante de graduação do CEFET-RJ!
   
   ```json
-  Currenly I'm focused on front-end develop. My stacks are JS, Node, and I'm also learning React and Angular!
+  Undergraduate student for Federal Center of Technology Education - CEFET-RJ!
+  ```
+
+  
++ Atualmente tenho foco em desenvolvimento fullstack. Estou aprendendo C, Java, JavaScript e Node!
+  
+  ```json
+  Currenly I'm focused on fullstack develop. I'm learning C, Java, JS and Node!
   ```
 + Também tenho grande interesse em Cloud, e tenho certificado na Cloud Practitioner pela AWS (Amazon).
   
